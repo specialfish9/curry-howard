@@ -1,0 +1,33 @@
+**
+(bussproofs.sty
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+Proof Tree (bussproofs) style macros. Version 1.1.
+\theLevel=\count181
+\myMaxLevel=\count182
+\myBoxA=\box50
+\myBoxB=\box51
+\myBoxC=\box52
+\myBoxD=\box53
+\myBoxLL=\box54
+\myBoxRL=\box55
+\thisAboveSkip=\dimen138
+\thisBelowSkip=\dimen139
+\newScoreStart=\dimen140
+\newScoreEnd=\dimen141
+\newCenter=\dimen142
+\displace=\dimen143
+\leftLowerAmt=\dimen144
+\rightLowerAmt=\dimen145
+\scoreHeight=\dimen146
+\scoreDepth=\dimen147
+\htLbox=\dimen148
+\htRbox=\dimen149
+\htRRbox=\dimen150
+\htRRRbox=\dimen151
+\htAbox=\dimen152
+\htCbox=\dimen153
+)
+! Emergency stop
+*** (job aborted, no legal \end found)
+No pages of output.
